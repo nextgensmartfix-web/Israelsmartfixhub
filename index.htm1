@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Israel Smartfix Hub</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f5f9ff;
+      color: #003366;
+    }
+    header {
+      background-color: #004080;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #0066cc;
+      text-align: center;
+      padding: 10px;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    section {
+      padding: 30px;
+      text-align: center;
+    }
+    footer {
+      background-color: #004080;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Israel Smartfix Hub</h1>
+    <p><i>"Smart Solutions for Every Device"</i></p>
+  </header>
+
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="services.html">Services</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+
+  <section>
+    <h2>Welcome to Israel Smartfix Hub</h2>
+    <p>We provide expert solutions in phone and computer repair, software & hardware maintenance, and more. 
+    Our mission is to keep your devices running smarter and faster.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Israel Smartfix Hub | Rukungiri, Uganda</p>
+  </footer>
+</body>
+</html>
